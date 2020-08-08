@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895414740377",
+    "firebase_url": "https://crick-rn.firebaseio.com",
+    "project_id": "crick-rn",
+    "storage_bucket": "crick-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895414740377:android:b18349d9b912cf23d79f08",
+        "android_client_info": {
+          "package_name": "com.cricapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895414740377-maufhaonk8h2jq5de4ne8ndhk4n6u0ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricapp",
+            "certificate_hash": "02ce8bcbe2f4ba9eb4fd45c5e0dd069d6771e9c5"
+          }
+        },
+        {
+          "client_id": "895414740377-vnit1fi59nab86kggjn5bf7aro593087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ87x3_VTcKPabl69EnwE3OE4yZdUET_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895414740377-vnit1fi59nab86kggjn5bf7aro593087.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
